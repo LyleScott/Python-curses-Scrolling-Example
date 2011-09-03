@@ -1,0 +1,12 @@
+Lyle Scott III
+lyle@digitalfoo.net
+http://digitalfoo.net/projects/Python_curses_Scrolling_Example/
+
+This is a *super* basic implementation of a scrollable terminal screen.
+
+*Currently, this reads line from lines.txt in the getOutputLines function.
+
+* UP    - scroll up 
+* DOWN  - scroll down
+* SPACE - select/toggle a line 
+* ESC   - exit
