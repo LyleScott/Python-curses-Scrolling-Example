@@ -65,7 +65,7 @@ class MenuDemo:
 
     def displayScreen(self):
         # clear screen
-        self.screen.clear()
+        self.screen.erase()
 
         # now paint the rows
         top = self.topLineNum
